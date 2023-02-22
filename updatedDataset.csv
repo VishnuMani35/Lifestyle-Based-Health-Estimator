@@ -1,0 +1,453 @@
+How old are you?,What is your gender?,How much do you weigh (in kgs)?,What is your height (in cms)?,How often do you do breathing exercises (Pranayama) / Yoga?  ,Do you smoke?,Do you feel difficult to breathe after a small physical activity?  ,What is your regular breakfast time?,What is your regular lunch time?,What is your regular dinner time?,How often will you eat junk food in a week?,How often do you include fruits and vegetables in your meals?,How many liters of water do you intake per day?,How many steps you walk per day?,"On a regular working day, for how many hours do you sit idle without any physical activity?",Do you have a habit of walking after having dinner?,"Apart from work, do you involve in any physical activity daily? (Gym, sports, etc)",How long do you sleep in a day?,When do you go to bed at night?,Do you follow circadian rhythm ? ( with sleep cycle of 10pm - 7am ) ,Do you have a regular bedtime and wake-up time?,What is the average time it takes you to fall asleep?,How do you rate your sleep quality?,Rate your stress levels,Do you have a habit of overthinking?,Is it possible to you to focus on one aspect without being distracted?,Are you mindful when you work?,How often do you forget important things?,How often do you get angry?,Score
+20-30,Female,51,161,Weekly,No,Yes,Skip the breakfast,11am -1 pm,8-10 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,40-60 minutes,2,3,5,No,Yes,1,3,2.8
+30-40,Female,63,168,Never,No,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,less than 5000,More than 6 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,4,4,No,No,3,3,2.9
+30-40,Female,65,157,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,3-6 litres,less than 5000,Below 1 hour,No,No,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,4,3,5,Yes,Yes,1,3,3.2
+30-40,Male,80,162,Weekly,No,No,After 10 am,2-3 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,10-20 minutes,4,4,4,No,No,2,3,2.7
+30-40,Female,68,163,Weekly,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,3,5,No,No,3,3,3.6
+20-30,Male,84,178,Never,No,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,5,4,No,Yes,2,4,2.5
+30-40,Female,64,150,Never,No,No,Skip the breakfast,11am -1 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,3,5,5,No,Yes,3,5,3.4
+15-20,Male,85,170,Never,No,No,Before 8 am,1-2 pm,7-8 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,No,8-10 hours,10pm - 11pm,Yes,No,20 - 40 minutes,4,4,4,No,Yes,4,3,3
+15-20,Male,75,175,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,3,2,3,No,Yes,3,2,3.6
+15-20,Male,104,189,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,1,2,Yes,Yes,4,3,3.7
+20-30,Male,90,180,Daily,Yes,Yes,9-10 am,1-2 pm,After 10 pm,No junk / Rarely,Every alternate day,3-6 litres,less than 5000,Below 1 hour,Yes,Yes,6-8 hours,9pm - 10pm,Yes,Yes,20 - 40 minutes,5,2,2,Yes,Yes,1,3,3
+15-20,Male,120,179,Never,No,Yes,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,5,Yes,Yes,2,5,3.9
+20-30,Male,81,186,15 days,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,more than 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,2,3,Yes,No,2,3,3.7
+20-30,Male,70,170,Daily,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,4-6 hours,9pm - 10pm,No,Yes,10-20 minutes,5,5,5,Yes,Yes,5,5,3.2
+15-20,Male,70,163,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,more than 10000,1-3 hours,Yes,No,4-6 hours,After 11pm,No,No,20 - 40 minutes,4,3,3,No,Yes,3,2,2.6
+15-20,Male,70,165,Never,No,No,Skip the breakfast,1-2 pm,8-10 pm,3-5 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,No,4-6 hours,After 11pm,No,No,40-60 minutes,4,4,5,No,Yes,3,2,2.7
+20-30,Male,46,156,Never,No,Yes,8-9 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,4,5,Yes,No,4,5,3.1
+15-20,Female,50,160,15 days,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,No,No,40-60 minutes,4,4,3,Yes,Yes,3,4,3.2
+15-20,Female,45,157,Never,No,No,9-10 am,2-3 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,4-6 hours,8pm - 9pm,Yes,Yes,20 - 40 minutes,4,2,4,Yes,Yes,4,5,2.9
+15-20,Female,53,160,Never,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,No,40-60 minutes,3,3,3,No,No,2,2,3.6
+15-20,Female,53,157,Weekly,No,No,Before 8 am,1-2 pm,8-10 pm,3-5 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,5,2,3,No,No,3,3,3.3
+15-20,Female,52,167,15 days,No,No,After 10 am,1-2 pm,After 10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,5,5,Yes,Yes,2,4,2.8
+15-20,Male,80,167,Never,No,Yes,Skip the breakfast,1-2 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,Yes,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,4,1,No,Yes,3,1,3
+15-20,Male,55,170,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,After 11pm,Yes,Yes,20 - 40 minutes,3,4,3,Yes,Yes,2,4,3.6
+15-20,Male,60,165,Weekly,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Daily once,1-3 litres,less than 5000,Below 1 hour,Yes,Yes,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,3,3,2,No,Yes,2,3,2.9
+15-20,Female,50,172,Never,No,Yes,Before 8 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,Yes,4-6 hours,After 11pm,Yes,No,20 - 40 minutes,4,4,5,No,No,4,3,3.4
+15-20,Male,55,139,Weekly,No,No,8-9 am,11am -1 pm,8-10 pm,3-5 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,No,8-10 hours,After 11pm,Yes,Yes,20 - 40 minutes,3,4,4,No,Yes,3,3,3.4
+15-20,Male,80,152,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,3-5 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,5,3,4,Yes,Yes,4,2,3.9
+15-20,Male,75,180,Weekly,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,Below 1 hour,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,4,No,No,3,3,3.1
+15-20,Male,53,173,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,more than 10000,3-6 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,3,4,No,Yes,4,2,3.2
+40-60,Male,75,176,Never,No,No,9-10 am,2-3 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,4,3,Yes,Yes,3,3,2.9
+20-30,Female,51,169,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,3,3,3,No,Yes,4,3,2.9
+40-60,Female,70,169,Never,No,No,9-10 am,2-3 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,4,4,No,Yes,3,3,2.5
+15-20,Male,70,183,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,5000 - 10000,More than 6 hours,No,No,4-6 hours,10pm - 11pm,No,No,10-20 minutes,4,4,5,No,No,2,3,3.3
+15-20,Male,55,182,Daily,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,More than 6 hours,No,Yes,6-8 hours,10pm - 11pm,No,No,10-20 minutes,5,3,4,No,Yes,3,4,3.1
+15-20,Male,76,183,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,Yes,8-10 hours,9pm - 10pm,No,No,20 - 40 minutes,4,2,3,Yes,Yes,2,2,2.5
+20-30,Female,53,174,Never,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,9pm - 10pm,No,No,20 - 40 minutes,4,4,4,No,Yes,2,5,3.7
+15-20,Male,63,153,15 days,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,3,3,No,Yes,3,3,4.1
+15-20,Male,68,180,Weekly,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,more than 7 times per week,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,3,4,4,Yes,Yes,1,5,2.9
+15-20,Male,56,170,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,Yes,No,10-20 minutes,3,5,5,No,No,5,3,2.6
+15-20,Male,72,168,Never,No,No,Skip the breakfast,After 3 pm,After 10 pm,2-3 times,Never/Rarely,3-6 litres,more than 10000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,3,2,2,Yes,Yes,4,3,3.5
+40-60,Female,64,155,Daily,No,No,9-10 am,1-2 pm,7-8 pm,No junk / Rarely,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,Yes,No,4-6 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,4,4,No,Yes,3,3,3.2
+40-60,Male,76,175,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,Yes,Yes,20 - 40 minutes,4,2,1,Yes,Yes,1,4,3.1
+Above 60,Female,60,150,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,Below 1 hour,No,No,4-6 hours,9pm - 10pm,Yes,Yes,40-60 minutes,2,3,4,Yes,Yes,2,2,3.1
+15-20,Male,50,160,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,More than 6 hours,No,Yes,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,3,4,2,Yes,Yes,4,4,2.9
+15-20,Female,51,171,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,Yes,4-6 hours,After 11pm,No,Yes,20 - 40 minutes,4,4,4,No,No,4,4,3.4
+15-20,Female,50,150,Daily,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,After 11pm,Yes,Yes,20 - 40 minutes,4,3,3,Yes,No,3,2,3.1
+15-20,Female,51,172,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,Yes,4-6 hours,After 11pm,Yes,Yes,20 - 40 minutes,4,4,4,No,No,4,4,2.9
+Above 60,Female,50,145,Never,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,No,No,40-60 minutes,2,5,5,No,No,5,3,2.9
+15-20,Female,60,160,Never,No,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,More than 1 hour,5,5,5,No,Yes,5,5,2.9
+Above 60,Male,55,160,Never,No,Yes,9-10 am,After 3 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,Below 1 hour,No,No,Above 10 hours,9pm - 10pm,Yes,Yes,20 - 40 minutes,4,2,2,Yes,Yes,2,4,3.4
+15-20,Male,65,170,Never,No,No,8-9 am,1-2 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,3-6 litres,5000 - 10000,Below 1 hour,Yes,Yes,4-6 hours,After 11pm,No,No,10-20 minutes,3,2,2,Yes,Yes,1,4,3.4
+40-60,Male,75,160,Never,No,No,8-9 am,2-3 pm,After 10 pm,2-3 times,Never/Rarely,3-6 litres,more than 10000,1-3 hours,Yes,Yes,6-8 hours,9pm - 10pm,Yes,Yes,20 - 40 minutes,4,4,4,No,No,3,5,3.4
+40-60,Female,65,158,Never,No,No,8-9 am,2-3 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,4,Yes,Yes,4,5,3.3
+15-20,Female,55,160,Never,No,No,8-9 am,2-3 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,2,2,No,No,4,3,4.3
+Below 15,Female,40,140,Daily,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,more than 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,1,1,Yes,Yes,1,4,3.2
+40-60,Male,75,170,Never,No,No,After 10 am,2-3 pm,8-10 pm,More than 5 times / Every day,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,No,No,8-10 hours,After 11pm,Yes,Yes,20 - 40 minutes,5,2,2,Yes,Yes,2,3,3
+40-60,Female,70,150,Never,No,No,After 10 am,2-3 pm,After 10 pm,3-5 times,Every alternate day,3-6 litres,less than 5000,Below 1 hour,No,No,8-10 hours,After 11pm,Yes,Yes,10-20 minutes,5,1,1,No,No,3,4,3.6
+15-20,Female,54,170,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,3-6 litres,less than 5000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,4,3,2,Yes,Yes,2,2,2.9
+20-30,Female,70,170,Never,No,No,After 10 am,2-3 pm,After 10 pm,3-5 times,Every alternate day,3-6 litres,5000 - 10000,3-6 hours,No,No,8-10 hours,After 11pm,Yes,Yes,10-20 minutes,5,2,2,No,No,3,4,2.8
+40-60,Female,70,155,15 days,No,Yes,8-9 am,2-3 pm,8-10 pm,3-5 times,Every alternate day,3-6 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,3,4,4,No,No,3,4,2.6
+40-60,Male,90,168,15 days,No,Yes,9-10 am,2-3 pm,After 10 pm,3-5 times,Every alternate day,3-6 litres,less than 5000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,5,4,Yes,Yes,3,4,2.6
+15-20,Male,55,175,15 days,No,Yes,Before 8 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,3-6 litres,less than 5000,Below 1 hour,No,No,4-6 hours,After 11pm,Yes,Yes,10-20 minutes,3,3,4,No,No,3,4,3.2
+Above 60,Male,95,165,15 days,No,Yes,Before 8 am,11am -1 pm,8-10 pm,More than 5 times / Every day,Every alternate day,1-3 litres,less than 5000,Below 1 hour,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,3,Yes,Yes,3,3,3.7
+Above 60,Female,45,155,15 days,No,No,8-9 am,11am -1 pm,8-10 pm,3-5 times,Daily once,3-6 litres,less than 5000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,3,3,Yes,Yes,2,3,3.2
+Below 15,Male,50,150,Never,No,Yes,8-9 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,Below 1 hour,Yes,Yes,6-8 hours,9pm - 10pm,No,Yes,20 - 40 minutes,3,5,2,Yes,Yes,3,5,2.8
+15-20,Female,72,165,15 days,No,Yes,9-10 am,2-3 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,4-6 hours,10pm - 11pm,Yes,No,40-60 minutes,5,4,4,No,No,3,4,1.6
+15-20,Male,130,170,Never,Yes,Yes,8-9 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,4-6 hours,After 11pm,No,No,More than 1 hour,4,5,5,No,No,4,4,2.6
+20-30,Male,65,155,15 days,No,Yes,After 10 am,After 3 pm,After 10 pm,More than 5 times / Every day,Never/Rarely,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,2,3,4,Yes,Yes,3,2,3.1
+15-20,Male,65,175,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,4-6 hours,After 11pm,No,No,40-60 minutes,4,5,5,No,No,4,5,2.7
+20-30,Female,80,150,Never,No,No,9-10 am,2-3 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,3-6 hours,No,No,Above 10 hours,10pm - 11pm,No,Yes,40-60 minutes,4,5,4,No,Yes,4,4,3.1
+15-20,Female,45,163,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,5,4,3,No,Yes,5,4,1.7
+40-60,Female,72,145,Never,No,No,Skip the breakfast,Skip the lunch,Skip the dinner,More than 5 times / Every day,Never/Rarely,Above 6 litres,more than 10000,More than 6 hours,No,No,Above 10 hours,After 11pm,No,No,More than 1 hour,4,5,5,No,No,5,5,3.6
+40-60,Prefer not to say,78,178,Daily,Yes,Yes,Before 8 am,11am -1 pm,6-7 pm,No junk / Rarely,more than 7 times per week,1-3 litres,less than 5000,Below 1 hour,Yes,Yes,4-6 hours,8pm - 9pm,Yes,Yes,10-20 minutes,4,3,3,Yes,Yes,4,1,3.5
+30-40,Female,66,160,Weekly,No,Yes,8-9 am,1-2 pm,7-8 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,9pm - 10pm,No,Yes,20 - 40 minutes,4,4,3,No,Yes,4,2,3.2
+15-20,Female,56,159,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,No,No,4-6 hours,9pm - 10pm,No,Yes,20 - 40 minutes,3,5,2,Yes,Yes,1,3,2.6
+Above 60,Prefer not to say,86,167,15 days,No,Yes,After 10 am,After 3 pm,After 10 pm,3-5 times,Every alternate day,3-6 litres,more than 10000,More than 6 hours,Yes,No,8-10 hours,10pm - 11pm,No,Yes,40-60 minutes,3,4,2,No,No,5,5,3.2
+30-40,Female,89,190,Weekly,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,No,Above 10 hours,After 11pm,Yes,Yes,10-20 minutes,5,4,4,No,No,5,5,3.1
+15-20,Male,80,175,15 days,No,Yes,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,Below 1 hour,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,4,5,No,No,4,5,2.3
+20-30,Male,45,165,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,3-6 hours,No,No,8-10 hours,After 11pm,No,No,20 - 40 minutes,2,5,5,No,No,3,3,2.3
+20-30,Male,67,169,Never,No,Yes,After 10 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,5,5,No,No,5,4,3.3
+20-30,Male,50,179,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,No,Yes,6-8 hours,After 11pm,Yes,No,20 - 40 minutes,4,2,4,No,Yes,2,2,3.5
+Below 15,Female,45,130,15 days,No,Yes,Before 8 am,11am -1 pm,8-10 pm,3-5 times,Daily once,3-6 litres,less than 5000,1-3 hours,No,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,4,3,Yes,Yes,3,4,2.4
+15-20,Male,75,177,Never,No,No,Skip the breakfast,11am -1 pm,8-10 pm,More than 5 times / Every day,Daily once,3-6 litres,less than 5000,More than 6 hours,No,No,4-6 hours,After 11pm,No,No,10-20 minutes,4,3,4,No,No,3,1,3.5
+20-30,Male,62,159,Daily,No,Yes,9-10 am,1-2 pm,8-10 pm,3-5 times,Daily once,3-6 litres,5000 - 10000,1-3 hours,No,Yes,8-10 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,3,5,4,Yes,Yes,3,3,3.2
+20-30,Male,57,165,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,3-5 times,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,No,10-20 minutes,4,3,4,No,Yes,3,3,3.4
+15-20,Male,75,168,Never,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,more than 7 times per week,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,4,4,Yes,Yes,4,3,2.2
+20-30,Female,40,180,Never,No,No,After 10 am,2-3 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,No,No,4-6 hours,After 11pm,No,No,20 - 40 minutes,3,4,4,No,Yes,3,3,3
+15-20,Female,62,143,Never,No,No,8-9 am,11am -1 pm,6-7 pm,2-3 times,Daily once,1-3 litres,less than 5000,More than 6 hours,No,Yes,6-8 hours,After 11pm,No,Yes,More than 1 hour,1,3,4,Yes,Yes,1,2,3.2
+15-20,Male,50,156,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,3-5 times,Daily once,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,20 - 40 minutes,4,4,5,Yes,No,4,5,2.3
+15-20,Male,50,172,Never,No,No,Skip the breakfast,1-2 pm,8-10 pm,3-5 times,Never/Rarely,Above 6 litres,less than 5000,Below 1 hour,No,No,Above 10 hours,After 11pm,No,No,More than 1 hour,5,4,4,No,No,4,4,3.3
+20-30,Male,67,195,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,No,Yes,8-10 hours,9pm - 10pm,No,Yes,40-60 minutes,5,4,4,No,Yes,4,2,2.7
+Above 60,Prefer not to say,68,160,Weekly,Yes,Yes,Before 8 am,11am -1 pm,Skip the dinner,2-3 times,Every alternate day,Above 6 litres,less than 5000,Below 1 hour,No,Yes,4-6 hours,8pm - 9pm,Yes,No,More than 1 hour,5,5,5,Yes,Yes,5,5,3.7
+Below 15,Male,59,175,Daily,No,Yes,Before 8 am,11am -1 pm,7-8 pm,No junk / Rarely,more than 7 times per week,Above 6 litres,5000 - 10000,More than 6 hours,Yes,Yes,Above 10 hours,8pm - 9pm,Yes,Yes,10-20 minutes,5,3,3,Yes,Yes,5,5,3.6
+20-30,Male,46,167,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,Below 1 hour,No,Yes,6-8 hours,10pm - 11pm,No,Yes,20 - 40 minutes,5,3,4,Yes,Yes,1,4,3.1
+15-20,Male,82,175,15 days,No,Yes,Before 8 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,more than 10000,Below 1 hour,No,Yes,4-6 hours,9pm - 10pm,No,No,More than 1 hour,4,4,5,Yes,Yes,4,5,2.5
+15-20,Male,110,185,Never,No,Yes,8-9 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,3-6 hours,No,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,5,5,No,No,3,1,3.6
+15-20,Female,54,150,Daily,No,Yes,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,1-3 hours,Yes,No,4-6 hours,9pm - 10pm,No,Yes,10-20 minutes,5,2,3,Yes,Yes,3,3,2.3
+15-20,Female,50,164,Never,No,No,8-9 am,2-3 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,4,4,No,No,4,3,2.9
+15-20,Male,86,180,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,5000 - 10000,3-6 hours,No,No,4-6 hours,10pm - 11pm,No,Yes,10-20 minutes,3,4,4,No,No,4,5,3.1
+15-20,Male,80,162,15 days,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,5,5,No,No,4,5,2.9
+20-30,Male,58,170,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,20 - 40 minutes,4,3,3,No,No,3,4,3.6
+20-30,Male,51,177,Never,No,No,After 10 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,No,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,2,3,Yes,Yes,4,1,2.6
+15-20,Female,70,173,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,More than 6 hours,Yes,No,4-6 hours,After 11pm,No,Yes,20 - 40 minutes,3,5,5,Yes,Yes,2,4,2.9
+20-30,Female,80,162,15 days,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,8pm - 9pm,No,Yes,10-20 minutes,5,3,4,Yes,Yes,3,3,3.1
+15-20,Male,70,156,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,3,3,Yes,Yes,2,2,3.6
+15-20,Male,92,178,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,more than 10000,Below 1 hour,Yes,Yes,4-6 hours,After 11pm,No,No,10-20 minutes,5,4,2,Yes,Yes,3,3,3.7
+20-30,Female,74,170,Weekly,No,No,9-10 am,1-2 pm,7-8 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,2,4,Yes,Yes,1,3,3.3
+15-20,Female,70,168,Weekly,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,3-6 hours,No,Yes,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,5,No,Yes,3,5,3
+20-30,Male,72,172,Never,No,No,Skip the breakfast,11am -1 pm,7-8 pm,More than 5 times / Every day,Daily once,1-3 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,3,4,4,Yes,Yes,5,5,3.4
+15-20,Male,55,165,Daily,No,Yes,Before 8 am,11am -1 pm,8-10 pm,More than 5 times / Every day,more than 7 times per week,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,8-10 hours,After 11pm,No,No,40-60 minutes,4,3,2,No,Yes,3,3,3
+15-20,Male,65,180,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Never/Rarely,3-6 litres,less than 5000,1-3 hours,No,No,6-8 hours,9pm - 10pm,No,No,20 - 40 minutes,4,3,4,No,Yes,2,3,3.2
+15-20,Female,50,161,Never,No,No,Before 8 am,1-2 pm,7-8 pm,More than 5 times / Every day,more than 7 times per week,3-6 litres,more than 10000,1-3 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,40-60 minutes,4,4,4,No,Yes,4,4,3.3
+15-20,Female,42,159,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,3,No,Yes,3,4,3.1
+20-30,Male,58,182,Never,No,No,Before 8 am,11am -1 pm,After 10 pm,More than 5 times / Every day,more than 7 times per week,3-6 litres,5000 - 10000,3-6 hours,No,Yes,Above 10 hours,After 11pm,No,Yes,20 - 40 minutes,5,4,4,Yes,Yes,2,5,2.8
+20-30,Male,72,170,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,3-5 times,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,9pm - 10pm,No,Yes,40-60 minutes,2,4,5,Yes,No,4,3,3.4
+15-20,Male,77,170,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,2,3,No,Yes,2,3,3.2
+20-30,Male,70,180,Daily,No,No,Before 8 am,1-2 pm,After 10 pm,More than 5 times / Every day,more than 7 times per week,Above 6 litres,more than 10000,More than 6 hours,Yes,Yes,Above 10 hours,After 11pm,No,No,40-60 minutes,5,5,5,No,Yes,5,3,3.8
+15-20,Male,83,183,Daily,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,5,No,Yes,3,1,3
+15-20,Male,65,171,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,less than 5000,Below 1 hour,No,No,8-10 hours,After 11pm,No,Yes,20 - 40 minutes,4,5,5,Yes,Yes,3,5,3.4
+15-20,Male,50,180,Weekly,No,No,9-10 am,1-2 pm,8-10 pm,3-5 times,more than 7 times per week,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,4,3,2,No,Yes,3,2,3.3
+20-30,Female,52,149,15 days,No,Yes,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,more than 7 times per week,3-6 litres,5000 - 10000,3-6 hours,Yes,No,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,4,Yes,Yes,3,4,2.6
+15-20,Male,79,179,Never,No,No,9-10 am,2-3 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,More than 1 hour,3,4,5,No,No,2,4,3.2
+20-30,Male,79,182,15 days,No,No,After 10 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,Below 1 hour,No,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,3,1,No,Yes,2,2,1.2
+Above 60,Female,120,170,Never,Yes,Yes,After 10 am,2-3 pm,After 10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,More than 1 hour,1,5,5,No,No,5,5,2.4
+15-20,Female,54,160,Never,No,No,8-9 am,2-3 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,less than 5000,3-6 hours,No,Yes,8-10 hours,After 11pm,No,No,More than 1 hour,1,5,5,No,Yes,4,4,3.3
+20-30,Male,67,175,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,5000 - 10000,More than 6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,40-60 minutes,3,4,4,Yes,Yes,3,4,3.2
+15-20,Male,52,190,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,5,5,No,No,4,5,3.9
+15-20,Female,55,164,15 days,No,No,9-10 am,1-2 pm,7-8 pm,3-5 times,more than 7 times per week,1-3 litres,more than 10000,3-6 hours,Yes,Yes,8-10 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,1,3,Yes,Yes,2,4,3.7
+15-20,Male,85,183,15 days,No,No,9-10 am,2-3 pm,Skip the dinner,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,3-6 hours,No,Yes,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,1,1,Yes,No,2,1,3.1
+15-20,Male,55,160,Weekly,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,No,No,More than 1 hour,2,3,4,Yes,Yes,3,5,3.1
+15-20,Male,60,170,Never,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,2,3,Yes,Yes,2,1,3.4
+15-20,Male,69,170,Never,No,No,8-9 am,11am -1 pm,6-7 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,4,5,Yes,Yes,3,2,3
+15-20,Female,60,155,Never,No,Yes,8-9 am,1-2 pm,7-8 pm,3-5 times,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,No,8-10 hours,After 11pm,No,No,10-20 minutes,5,3,4,Yes,Yes,2,1,2.5
+20-30,Male,49,176,Never,Yes,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,1-3 hours,No,Yes,4-6 hours,After 11pm,No,No,10-20 minutes,4,4,4,Yes,Yes,2,2,3.1
+20-30,Male,100,188,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,3-6 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,4,2,3,Yes,Yes,4,2,2.4
+15-20,48,48,161,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,10-20 minutes,3,3,2,No,No,3,2,2.8
+20-30,Male,87,175,Never,No,No,8-9 am,1-2 pm,6-7 pm,3-5 times,Every alternate day,3-6 litres,less than 5000,3-6 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,3,5,No,No,3,5,3.1
+15-20,Male,58,167,Never,Yes,Yes,8-9 am,11am -1 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,more than 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,3,5,5,No,No,4,4,3.9
+30-40,Male,74,172,Never,No,No,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,8-10 hours,8pm - 9pm,No,Yes,10-20 minutes,4,2,4,No,Yes,3,2,2.8
+15-20,Male,87,166,Never,No,No,9-10 am,1-2 pm,8-10 pm,3-5 times,Daily once,Above 6 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,4,3,4,Yes,Yes,2,3,3.7
+20-30,Female,75,164,Weekly,No,No,Skip the breakfast,11am -1 pm,7-8 pm,3-5 times,Daily once,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,5,Yes,Yes,2,2,3
+30-40,Female,62,164,Never,No,No,Skip the breakfast,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,5,2,No,Yes,2,4,3.3
+20-30,Male,86,180,Never,No,No,9-10 am,1-2 pm,7-8 pm,2-3 times,more than 7 times per week,3-6 litres,less than 5000,Below 1 hour,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,4,3,Yes,Yes,2,3,3.6
+30-40,Male,68,174,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,3,3,Yes,Yes,2,3,2.7
+30-40,Male,84,165,Never,Yes,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,Never/Rarely,3-6 litres,less than 5000,More than 6 hours,No,No,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,4,No,Yes,3,2,3.7
+15-20,Male,70,182,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,1-3 hours,No,Yes,8-10 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,2,2,Yes,Yes,4,2,3.5
+30-40,Male,65,180,Weekly,No,No,Before 8 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,4-6 hours,9pm - 10pm,No,Yes,10-20 minutes,5,2,2,Yes,Yes,2,2,3.7
+15-20,Male,50,170,Never,No,No,8-9 am,1-2 pm,6-7 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,3,3,No,Yes,1,4,3
+15-20,Male,45,170,15 days,No,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,No,8-10 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,2,3,Yes,Yes,4,3,3.7
+20-30,Male,83,168,Daily,No,No,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Every alternate day,3-6 litres,more than 10000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,3,2,No,No,2,2,3.8
+20-30,Male,56,165,15 days,No,No,Before 8 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,Yes,No,8-10 hours,9pm - 10pm,No,Yes,10-20 minutes,5,2,2,Yes,Yes,4,3,3.7
+15-20,Male,60,176,15 days,No,No,9-10 am,1-2 pm,8-10 pm,3-5 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,After 11pm,No,No,40-60 minutes,3,2,3,No,Yes,4,3,3.3
+15-20,Female,64,154,15 days,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,Daily once,3-6 litres,less than 5000,3-6 hours,Yes,Yes,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,5,3,3,Yes,Yes,3,2,3.7
+30-40,Female,54,152,Daily,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,40-60 minutes,4,3,4,Yes,Yes,3,3,3.9
+15-20,Female,43,157,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,3-6 hours,No,No,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,3,3,5,No,Yes,2,4,2.8
+20-30,Female,52,157,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,20 - 40 minutes,2,4,5,No,Yes,4,5,3
+15-20,Female,54,161,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,3-5 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,4-6 hours,After 11pm,No,No,40-60 minutes,3,4,4,No,Yes,3,2,2.7
+20-30,Female,57,170,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,20 - 40 minutes,3,4,4,No,Yes,4,4,3.1
+15-20,Male,94,173,15 days,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,9pm - 10pm,No,Yes,10-20 minutes,5,2,4,Yes,Yes,4,2,3.6
+15-20,Male,70,180,Never,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,More than 6 hours,Yes,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,5,4,4,Yes,Yes,3,3,3.3
+15-20,Male,65,172,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,2,3,Yes,Yes,3,4,3.6
+15-20,Female,46,158,Never,No,No,Before 8 am,1-2 pm,8-10 pm,3-5 times,Daily once,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,9pm - 10pm,No,Yes,20 - 40 minutes,4,3,5,No,No,2,4,3
+15-20,Female,70,151,Daily,No,No,Before 8 am,1-2 pm,8-10 pm,No junk / Rarely,more than 7 times per week,1-3 litres,5000 - 10000,More than 6 hours,No,Yes,8-10 hours,9pm - 10pm,Yes,No,10-20 minutes,5,3,4,Yes,Yes,3,4,3.7
+20-30,Male,75,170,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,Below 1 hour,No,No,8-10 hours,After 11pm,No,Yes,20 - 40 minutes,4,4,3,Yes,Yes,4,2,3.2
+30-40,Male,75,155,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,8pm - 9pm,No,Yes,10-20 minutes,3,4,3,No,Yes,4,4,3.3
+15-20,Male,60,165,Never,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,4,4,Yes,Yes,3,3,3.6
+15-20,Female,64,173,Never,No,No,Skip the breakfast,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,20 - 40 minutes,5,4,4,Yes,Yes,3,4,3.2
+15-20,Male,78,176,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,4,5,5,Yes,Yes,3,4,3.1
+20-30,Male,80,178,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,4,3,5,Yes,Yes,3,3,3.1
+15-20,Female,72,168,Weekly,No,No,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,2,2,Yes,Yes,2,3,4.1
+20-30,Female,52,160,Never,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,5,4,No,No,5,3,2.6
+15-20,Male,85,180,Never,No,No,Skip the breakfast,1-2 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,4,4,No,Yes,2,2,3.2
+15-20,Female,36,158,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,3,2,No,Yes,2,3,3.2
+15-20,Male,90,174,Daily,No,No,Before 8 am,1-2 pm,7-8 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,More than 6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,2,Yes,Yes,2,2,4
+15-20,Male,72,156,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,2,3,3,No,No,3,2,3.2
+15-20,Male,70,172,15 days,No,Yes,8-9 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,4,4,Yes,Yes,3,3,3.4
+20-30,Male,75,168,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,5,5,No,Yes,1,3,2.9
+15-20,Female,40,150,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,3-6 litres,less than 5000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,3,5,Yes,Yes,2,5,3.5
+15-20,Female,65,170,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,Below 1 hour,No,Yes,6-8 hours,10pm - 11pm,No,No,More than 1 hour,4,2,2,Yes,Yes,3,3,3.5
+20-30,Male,81,176,Weekly,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,less than 5000,More than 6 hours,Yes,No,4-6 hours,After 11pm,No,No,20 - 40 minutes,1,4,4,No,No,2,5,2.7
+15-20,Female,69,170,Never,No,No,Skip the breakfast,11am -1 pm,7-8 pm,3-5 times,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,2,4,3,No,No,2,2,2.9
+15-20,Female,50,160,Never,No,No,8-9 am,1-2 pm,7-8 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,3,2,No,Yes,3,3,3.4
+15-20,Male,60,172,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,more than 10000,1-3 hours,Yes,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,2,3,Yes,Yes,2,2,4.2
+15-20,Female,50,162,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,No,No,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,4,Yes,Yes,4,2,3
+15-20,Male,65,162,Never,No,Yes,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,Yes,No,10-20 minutes,4,5,5,No,Yes,5,5,2.4
+15-20,Male,70,182,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,5000 - 10000,Below 1 hour,Yes,Yes,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,3,Yes,Yes,2,5,3.9
+15-20,Female,70,161,Never,No,Yes,8-9 am,1-2 pm,7-8 pm,More than 5 times / Every day,Every alternate day,Above 6 litres,less than 5000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,3,3,4,No,No,3,4,2.6
+30-40,Male,90,180,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,9pm - 10pm,No,Yes,20 - 40 minutes,4,2,2,No,Yes,3,2,3.1
+15-20,Male,54,177,15 days,No,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,2,4,Yes,Yes,1,4,3.6
+15-20,Female,43,164,Weekly,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,Yes,No,4-6 hours,After 11pm,No,Yes,10-20 minutes,4,3,5,No,No,4,2,2.8
+15-20,Male,50,180,Daily,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,4-6 hours,After 11pm,No,No,10-20 minutes,3,1,1,No,Yes,1,1,3.7
+15-20,Male,105,153,Never,No,Yes,After 10 am,1-2 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,More than 1 hour,3,4,5,No,No,2,4,1.8
+15-20,Male,84,180,Never,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,2,3,Yes,Yes,3,3,3.4
+15-20,Male,55,170,Weekly,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,3,4,Yes,Yes,2,2,3.7
+15-20,Female,59,168,Weekly,No,No,9-10 am,1-2 pm,Skip the dinner,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,No,No,10-20 minutes,3,5,5,No,Yes,4,3,3.3
+15-20,Female,45,150,Never,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,less than 5000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,4,4,5,Yes,Yes,4,4,2.9
+20-30,Male,80,178,Never,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,more than 10000,3-6 hours,Yes,Yes,4-6 hours,After 11pm,No,No,10-20 minutes,4,3,3,No,Yes,3,4,3.2
+40-60,Male,80,170,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,More than 6 hours,No,No,6-8 hours,After 11pm,Yes,Yes,20 - 40 minutes,5,4,2,Yes,Yes,1,3,3.1
+30-40,Male,72,172,Never,No,No,Before 8 am,1-2 pm,8-10 pm,No junk / Rarely,more than 7 times per week,3-6 litres,more than 10000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,2,Yes,Yes,3,3,4.1
+15-20,Female,62,161,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,5000 - 10000,More than 6 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,4,Yes,Yes,2,3,3.3
+20-30,Male,89,170,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,Above 6 litres,more than 10000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,4,5,No,No,3,2,3.3
+20-30,Male,78,170,15 days,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,Above 6 litres,more than 10000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,3,5,No,No,2,1,3.4
+15-20,Female,58,150,Never,No,No,8-9 am,11am -1 pm,7-8 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,2,4,No,No,3,2,3.3
+20-30,Female,52,163,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,No,4-6 hours,10pm - 11pm,No,Yes,20 - 40 minutes,4,3,3,Yes,Yes,3,3,3.5
+20-30,Male,68,172,Never,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,more than 7 times per week,3-6 litres,more than 10000,3-6 hours,Yes,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,5,3,4,No,Yes,4,2,3.4
+15-20,Male,58,172,Never,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,Below 1 hour,Yes,Yes,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,3,3,3,No,Yes,1,4,3.3
+15-20,Male,76,177,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,3,4,Yes,Yes,3,2,3.5
+15-20,Male,68,175,Never,No,Yes,8-9 am,1-2 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,6-8 hours,After 11pm,Yes,No,20 - 40 minutes,3,3,4,Yes,Yes,3,3,2.6
+20-30,Male,74,180,Never,No,Yes,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Never/Rarely,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,3,4,Yes,Yes,4,4,3.2
+15-20,Female,53,165,Never,No,No,Skip the breakfast,1-2 pm,After 10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,4-6 hours,After 11pm,No,No,10-20 minutes,5,4,5,No,Yes,2,3,2.4
+15-20,Male,56,176,Never,No,No,After 10 am,2-3 pm,After 10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,1-3 hours,No,Yes,8-10 hours,8pm - 9pm,No,No,20 - 40 minutes,4,3,3,Yes,No,2,2,3.2
+15-20,Male,80,170,15 days,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,Above 6 litres,5000 - 10000,1-3 hours,Yes,No,4-6 hours,After 11pm,No,Yes,20 - 40 minutes,3,4,5,Yes,Yes,2,4,3.4
+15-20,Female,55,165,Never,No,No,8-9 am,1-2 pm,7-8 pm,3-5 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,3,2,Yes,Yes,2,3,3.3
+15-20,Female,55,161,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,No junk / Rarely,more than 7 times per week,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,5,4,Yes,Yes,2,3,3.3
+15-20,Female,55,163,Daily,No,Yes,9-10 am,2-3 pm,Skip the dinner,No junk / Rarely,Daily once,Above 6 litres,more than 10000,1-3 hours,Yes,Yes,8-10 hours,10pm - 11pm,No,Yes,10-20 minutes,5,4,5,Yes,Yes,2,1,3.8
+20-30,Male,85,179,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,3,4,Yes,Yes,1,5,3.1
+15-20,Female,53,164,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,2,3,No,Yes,2,2,3.5
+20-30,Female,73,158,Weekly,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,3,4,4,Yes,Yes,3,3,3.4
+15-20,Male,75,170,Weekly,No,No,8-9 am,11am -1 pm,7-8 pm,3-5 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,4,3,No,No,5,2,3.6
+15-20,Male,65,176,15 days,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,3,2,5,No,Yes,4,3,3.2
+15-20,Female,58,164,Never,No,No,8-9 am,1-2 pm,7-8 pm,3-5 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,4,3,3,Yes,Yes,2,3,3.3
+20-30,Male,73,170,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,2,4,1,No,No,2,4,2.8
+20-30,Male,80,178,Never,No,No,Skip the breakfast,2-3 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,4,2,2,Yes,Yes,3,2,3.2
+15-20,Female,44,155,Never,No,Yes,Before 8 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,4,5,5,No,Yes,3,4,3
+15-20,Female,50,163,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,4,2,2,Yes,Yes,2,2,3.5
+15-20,Male,60,175,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,More than 6 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,2,2,Yes,No,3,2,3.5
+15-20,Female,64,158,15 days,No,No,After 10 am,2-3 pm,After 10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,No,4-6 hours,After 11pm,No,Yes,10-20 minutes,4,4,3,No,Yes,4,4,3
+20-30,Male,95,177,Never,No,No,8-9 am,11am -1 pm,7-8 pm,3-5 times,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,No,10-20 minutes,4,5,5,No,No,2,5,3.3
+15-20,Male,65,180,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,4-6 hours,9pm - 10pm,Yes,Yes,20 - 40 minutes,4,3,2,Yes,Yes,1,4,3.8
+15-20,Male,53,180,Never,No,No,Before 8 am,1-2 pm,7-8 pm,3-5 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,Yes,No,8-10 hours,9pm - 10pm,Yes,Yes,10-20 minutes,4,3,4,Yes,Yes,2,4,3.2
+20-30,Female,53,162,Daily,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,3,4,No,Yes,1,2,3.4
+15-20,Female,65,155,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,5,5,Yes,Yes,4,4,3.4
+15-20,Male,72,179,15 days,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,1,5,Yes,Yes,1,1,3
+15-20,Male,70,176,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,4-6 hours,After 11pm,No,Yes,10-20 minutes,4,4,4,Yes,Yes,3,5,3.2
+15-20,Female,55,167,15 days,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,4,3,3,Yes,Yes,2,3,3.4
+15-20,Male,60,175,15 days,No,No,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Never/Rarely,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,1,3,Yes,Yes,2,2,3.9
+15-20,Female,62,157,Never,No,No,8-9 am,11am -1 pm,7-8 pm,More than 5 times / Every day,more than 7 times per week,1-3 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,2,4,Yes,Yes,3,3,3.4
+15-20,Male,50,168,Never,No,Yes,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,10pm - 11pm,No,No,20 - 40 minutes,3,5,5,No,No,3,2,2.3
+20-30,Female,39,162,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,No,No,8-10 hours,10pm - 11pm,No,Yes,20 - 40 minutes,4,3,3,Yes,Yes,1,3,3.2
+20-30,Male,80,165,Weekly,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,5,3,4,Yes,Yes,2,3,3.8
+15-20,Female,56,154,Never,No,No,8-9 am,2-3 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,3-6 hours,No,No,6-8 hours,After 11pm,No,Yes,More than 1 hour,3,5,5,No,No,3,3,2.6
+30-40,Male,72,168,Never,No,No,Before 8 am,1-2 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,Yes,4-6 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,3,5,4,No,Yes,3,4,3.3
+15-20,Female,50,162,Never,No,No,Skip the breakfast,1-2 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,3,4,Yes,Yes,2,2,3.3
+15-20,Female,60,170,Weekly,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,No,8-10 hours,10pm - 11pm,No,No,20 - 40 minutes,4,4,5,No,Yes,2,4,3.4
+20-30,Male,80,167,Never,No,Yes,Skip the breakfast,11am -1 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,3,4,Yes,Yes,3,4,3.1
+20-30,Male,57,177,Weekly,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,Below 1 hour,Yes,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,3,3,3,No,Yes,3,2,3.6
+20-30,Male,75,170,Never,No,Yes,Before 8 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,More than 6 hours,No,No,8-10 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,4,5,Yes,Yes,3,3,2.9
+15-20,Female,55,158,15 days,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,4,4,No,Yes,2,3,4
+20-30,Female,52,158,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,4,4,5,No,Yes,3,3,3
+15-20,Male,85,108,Weekly,No,No,Before 8 am,1-2 pm,7-8 pm,2-3 times,Daily once,Above 6 litres,more than 10000,1-3 hours,Yes,Yes,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,3,Yes,Yes,3,2,4.2
+15-20,Female,59,165,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,3-6 hours,No,No,8-10 hours,10pm - 11pm,No,No,40-60 minutes,3,5,5,No,No,3,5,2.4
+30-40,Male,85,156,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,Below 1 hour,Yes,Yes,6-8 hours,9pm - 10pm,No,Yes,40-60 minutes,4,3,2,No,Yes,4,4,3.7
+15-20,Female,65,162,Weekly,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Daily once,1-3 litres,more than 10000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,Yes,More than 1 hour,4,4,1,Yes,Yes,1,2,3.7
+30-40,Male,63,167,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,4-6 hours,10pm - 11pm,No,No,10-20 minutes,3,3,4,No,Yes,3,3,2.6
+15-20,Male,70,180,15 days,No,Yes,8-9 am,2-3 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,8-10 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,2,4,Yes,Yes,2,2,3.7
+15-20,Male,48,173,Never,No,No,9-10 am,2-3 pm,8-10 pm,2-3 times,Daily once,Above 6 litres,less than 5000,3-6 hours,No,Yes,8-10 hours,10pm - 11pm,No,Yes,10-20 minutes,3,3,5,Yes,Yes,4,3,3.1
+15-20,Female,61,164,Never,No,No,Before 8 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,No,No,40-60 minutes,4,4,4,No,Yes,3,4,3
+20-30,Male,85,185,Never,No,Yes,9-10 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,3-6 litres,less than 5000,3-6 hours,Yes,No,4-6 hours,After 11pm,Yes,No,20 - 40 minutes,3,3,4,No,Yes,3,3,2.6
+15-20,Male,57,174,Weekly,No,No,After 10 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,3,4,Yes,Yes,4,4,3.1
+15-20,Male,65,180,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,4,2,4,No,Yes,4,3,3.5
+20-30,Male,69,174,Never,No,No,Skip the breakfast,1-2 pm,7-8 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,5000 - 10000,More than 6 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,1,1,5,No,No,3,3,2.6
+30-40,Female,55,155,Never,No,No,Before 8 am,1-2 pm,7-8 pm,3-5 times,Daily once,1-3 litres,less than 5000,1-3 hours,No,Yes,4-6 hours,9pm - 10pm,No,Yes,20 - 40 minutes,3,4,5,No,No,3,3,3.1
+15-20,Male,88,182,Never,No,Yes,Skip the breakfast,11am -1 pm,7-8 pm,No junk / Rarely,more than 7 times per week,3-6 litres,less than 5000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,5,5,No,Yes,2,5,3.1
+40-60,Male,109,190,Daily,No,Yes,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,Below 1 hour,No,No,4-6 hours,8pm - 9pm,No,Yes,10-20 minutes,3,5,5,Yes,Yes,2,4,3.4
+15-20,Female,53,160,Never,No,No,Skip the breakfast,1-2 pm,After 10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,4,5,No,No,3,4,2.5
+15-20,Male,85,177,15 days,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,3,4,4,No,Yes,3,3,3.5
+15-20,Male,80,170,15 days,No,No,After 10 am,2-3 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,less than 5000,3-6 hours,No,Yes,8-10 hours,10pm - 11pm,No,No,40-60 minutes,3,2,4,Yes,Yes,3,2,3.2
+20-30,Female,70,164,Never,No,No,9-10 am,2-3 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,3-6 litres,more than 10000,3-6 hours,No,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,4,5,No,No,3,3,2.9
+15-20,Female,62,166,15 days,No,No,8-9 am,11am -1 pm,7-8 pm,3-5 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,9pm - 10pm,No,Yes,10-20 minutes,5,3,2,Yes,Yes,3,2,3.2
+15-20,Male,94,172,Never,No,No,8-9 am,1-2 pm,7-8 pm,3-5 times,more than 7 times per week,3-6 litres,5000 - 10000,More than 6 hours,No,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,5,5,No,No,4,5,2.8
+20-30,Male,60,181,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,No,Yes,4-6 hours,10pm - 11pm,No,Yes,10-20 minutes,4,4,5,Yes,Yes,3,5,3.2
+15-20,Male,70,173,Daily,No,No,8-9 am,2-3 pm,8-10 pm,No junk / Rarely,more than 7 times per week,3-6 litres,less than 5000,More than 6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,2,3,Yes,Yes,4,3,3.7
+15-20,Male,85,185,Daily,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Every alternate day,3-6 litres,less than 5000,Below 1 hour,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,1,1,Yes,Yes,1,2,4.5
+30-40,Female,85,155,Daily,No,Yes,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,3,4,4,No,Yes,4,3,2.9
+20-30,Male,60,158,Never,No,No,8-9 am,2-3 pm,Skip the dinner,2-3 times,more than 7 times per week,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,4,4,No,No,2,4,2.6
+15-20,Female,67,157,15 days,No,No,Skip the breakfast,11am -1 pm,6-7 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,4,5,Yes,Yes,3,4,3.3
+15-20,Female,58,162,Never,No,No,Skip the breakfast,1-2 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,10-20 minutes,4,4,5,No,Yes,4,5,2.2
+15-20,Male,75,176,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,more than 7 times per week,3-6 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,9pm - 10pm,No,Yes,10-20 minutes,4,3,2,Yes,Yes,2,3,3.8
+15-20,Male,70,185,Never,No,No,Before 8 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,No,No,10-20 minutes,5,2,4,No,Yes,2,2,3.7
+20-30,Female,62,155,Never,No,Yes,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Daily once,3-6 litres,less than 5000,More than 6 hours,Yes,No,6-8 hours,After 11pm,No,No,More than 1 hour,1,4,3,No,Yes,3,3,2.6
+15-20,Female,46,155,Never,No,No,9-10 am,2-3 pm,8-10 pm,More than 5 times / Every day,Daily once,1-3 litres,less than 5000,3-6 hours,No,No,4-6 hours,After 11pm,No,Yes,More than 1 hour,5,3,1,Yes,Yes,2,2,2.7
+15-20,Male,70,167,Weekly,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,more than 10000,3-6 hours,Yes,Yes,4-6 hours,After 11pm,No,No,10-20 minutes,4,1,4,Yes,Yes,3,3,3.6
+20-30,Male,70,176,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,No,Yes,8-10 hours,After 11pm,No,No,10-20 minutes,4,3,5,Yes,Yes,4,3,3
+30-40,Male,60,175,Daily,No,No,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Never/Rarely,3-6 litres,less than 5000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,3,3,Yes,Yes,2,1,3.7
+15-20,Male,95,176,Never,No,Yes,Before 8 am,11am -1 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,5000 - 10000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,4,4,5,No,No,4,4,2.5
+15-20,Female,48,155,Weekly,No,No,9-10 am,2-3 pm,After 10 pm,More than 5 times / Every day,more than 7 times per week,1-3 litres,5000 - 10000,More than 6 hours,Yes,Yes,4-6 hours,After 11pm,No,No,More than 1 hour,4,5,5,No,No,1,5,2.7
+20-30,Female,75,160,Daily,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,5,Yes,Yes,3,3,4.1
+15-20,Male,75,180,Never,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,4,4,No,Yes,2,3,3.3
+15-20,Female,58,173,Never,No,Yes,After 10 am,2-3 pm,8-10 pm,3-5 times,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,Above 10 hours,After 11pm,No,No,40-60 minutes,3,5,5,No,Yes,3,3,1.9
+15-20,Male,90,176,Weekly,No,Yes,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,9pm - 10pm,No,Yes,20 - 40 minutes,4,4,4,Yes,Yes,4,4,3.6
+40-60,Male,75,172,Never,Yes,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,Below 1 hour,No,No,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,4,4,3,Yes,Yes,2,3,3.2
+15-20,Male,76,176,Weekly,No,No,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Every alternate day,3-6 litres,less than 5000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,5,2,4,Yes,Yes,2,3,3.4
+30-40,Male,88,183,Daily,No,No,8-9 am,11am -1 pm,8-10 pm,3-5 times,more than 7 times per week,3-6 litres,5000 - 10000,Below 1 hour,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,3,2,No,Yes,2,3,3.8
+40-60,Male,80,173,Never,No,No,Before 8 am,11am -1 pm,Skip the dinner,No junk / Rarely,Never/Rarely,1-3 litres,more than 10000,Below 1 hour,No,Yes,4-6 hours,10pm - 11pm,No,Yes,10-20 minutes,5,3,3,Yes,Yes,2,1,3.5
+15-20,Female,75,164,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,3,4,5,No,No,3,5,2.2
+20-30,Female,54,164,Weekly,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,4,4,No,No,2,3,3
+15-20,Male,63,175,Weekly,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,3,4,Yes,Yes,2,4,3.6
+15-20,Male,70,179,Never,No,No,Before 8 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,3-6 litres,less than 5000,More than 6 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,3,4,5,No,Yes,3,3,2.9
+20-30,Female,40,154,15 days,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,Yes,Yes,4-6 hours,After 11pm,Yes,No,10-20 minutes,4,4,2,Yes,Yes,2,3,3.6
+15-20,Female,48,152,Daily,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,more than 7 times per week,1-3 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,5,4,4,No,Yes,4,4,3.63
+20-30,Male,58,162,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,3-6 hours,Yes,Yes,6-8 hours,After 11pm,No,No,40-60 minutes,4,3,4,No,No,3,2,3.06
+30-40,Male,81,154,Never,No,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,4,2,No,No,2,4,2.93
+15-20,Female,75,165,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,20 - 40 minutes,4,5,5,No,Yes,3,4,2.53
+15-20,Male,78,173,Never,No,No,Skip the breakfast,1-2 pm,After 10 pm,No junk / Rarely,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,No,Yes,8-10 hours,After 11pm,No,No,10-20 minutes,5,2,5,No,Yes,3,5,2.9
+15-20,Female,45,165,Never,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,Yes,6-8 hours,After 11pm,Yes,No,10-20 minutes,4,3,5,No,No,4,4,3.28
+15-20,Male,75,178,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,3,3,4,Yes,Yes,3,2,3.63
+15-20,Female,63,158,15 days,No,Yes,Skip the breakfast,1-2 pm,After 10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,Yes,Yes,10-20 minutes,4,3,4,Yes,Yes,5,5,2.26
+15-20,Male,75,165,Never,No,No,8-9 am,2-3 pm,8-10 pm,3-5 times,Daily once,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,3,4,5,No,No,3,5,3.1
+20-30,Prefer not to say,65,164,Never,No,No,Skip the breakfast,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,20 - 40 minutes,4,5,5,No,No,3,3,2.4
+15-20,Female,44,160,Weekly,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,4,5,Yes,Yes,3,3,3.7
+20-30,Male,60,171,Never,No,Yes,9-10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,3,2,3,Yes,Yes,4,2,3.3
+15-20,Male,60,169,Never,No,No,After 10 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,less than 5000,3-6 hours,No,No,8-10 hours,After 11pm,No,No,40-60 minutes,4,2,2,Yes,No,3,3,2.73
+20-30,Male,54,167,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,Above 6 litres,5000 - 10000,1-3 hours,No,Yes,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,4,Yes,Yes,3,3,3.7
+15-20,Female,53,167,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,40-60 minutes,4,4,3,No,Yes,3,4,2.83
+20-30,Male,95,171,15 days,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,3,4,Yes,Yes,2,2,3.5
+15-20,Female,51,165,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,1,1,No,Yes,2,1,3.4
+15-20,Female,60,155,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,4-6 hours,After 11pm,No,Yes,10-20 minutes,4,4,5,No,No,5,3,3.2
+15-20,Male,70,168,Never,No,No,Before 8 am,1-2 pm,7-8 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,More than 6 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,3,4,5,Yes,Yes,2,3,3.26
+15-20,Male,70,174,Never,No,Yes,9-10 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,More than 1 hour,3,5,5,No,No,4,3,1.96
+15-20,Male,71,174,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,more than 10000,3-6 hours,Yes,Yes,4-6 hours,10pm - 11pm,No,Yes,10-20 minutes,5,2,4,Yes,Yes,4,4,3.48
+15-20,Female,53,155,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,No,No,8-10 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,2,4,No,No,2,3,3.2
+15-20,Male,67,176,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,less than 5000,More than 6 hours,No,No,4-6 hours,After 11pm,No,Yes,10-20 minutes,4,4,5,No,No,4,3,2.4
+15-20,Male,50,177,Never,No,No,8-9 am,1-2 pm,8-10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,more than 10000,Below 1 hour,Yes,No,4-6 hours,After 11pm,No,No,More than 1 hour,3,2,2,No,Yes,2,1,3
+20-30,Male,58,176,Weekly,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,4,1,1,Yes,Yes,3,2,3.7
+15-20,Male,85,185,Daily,No,Yes,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,more than 7 times per week,1-3 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,4,4,Yes,Yes,2,2,3.9
+15-20,Female,52,164,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,40-60 minutes,4,4,4,No,No,4,3,2.2
+15-20,Female,58,163,Never,No,No,After 10 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,Yes,Yes,20 - 40 minutes,5,4,5,No,Yes,5,5,2.6
+15-20,Female,57,131,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,1-3 hours,Yes,No,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,4,3,5,Yes,Yes,1,2,3.6
+15-20,Female,65,175,Never,No,Yes,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,less than 5000,3-6 hours,No,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,5,3,4,No,No,2,4,2.6
+20-30,Female,51,159,Never,No,No,8-9 am,1-2 pm,7-8 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,Below 1 hour,Yes,No,4-6 hours,After 11pm,No,No,20 - 40 minutes,2,4,5,No,No,3,4,2.7
+15-20,Male,105,167,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,5,5,Yes,Yes,4,4,3.2
+15-20,Female,55,164,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,5,4,No,Yes,2,2,3.4
+20-30,Male,73,169,Never,Yes,No,9-10 am,11am -1 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,Below 1 hour,No,No,8-10 hours,After 11pm,No,No,10-20 minutes,5,1,1,No,Yes,2,3,2.9
+20-30,Male,70,183,Never,No,No,After 10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,Above 6 litres,5000 - 10000,3-6 hours,No,Yes,8-10 hours,After 11pm,No,Yes,10-20 minutes,5,1,1,No,Yes,1,3,3.5
+15-20,35,35,150,Never,No,Yes,8-9 am,11am -1 pm,After 10 pm,No junk / Rarely,more than 7 times per week,1-3 litres,less than 5000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,2,4,Yes,Yes,1,1,3.5
+15-20,Female,65,163,Never,No,No,Before 8 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,1-3 hours,Yes,Yes,4-6 hours,After 11pm,No,No,10-20 minutes,4,3,4,Yes,Yes,1,3,3.4
+15-20,Female,47,173,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,Yes,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,5,1,4,Yes,Yes,2,2,3.26
+15-20,Male,84,172,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,1-3 hours,Yes,No,8-10 hours,9pm - 10pm,Yes,No,10-20 minutes,5,3,4,Yes,Yes,3,3,3.5
+30-40,Female,73,168,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,less than 5000,3-6 hours,Yes,No,4-6 hours,10pm - 11pm,No,Yes,40-60 minutes,3,4,3,Yes,Yes,2,2,3.26
+15-20,Male,67,177,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,more than 10000,Below 1 hour,No,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,4,1,3,Yes,Yes,1,2,4.13
+15-20,Male,74,185,Never,No,No,8-9 am,2-3 pm,8-10 pm,2-3 times,Daily once,3-6 litres,less than 5000,3-6 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,5,4,5,No,No,3,3,2.8
+15-20,Male,70,175,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,5,3,1,Yes,Yes,2,5,3.13
+15-20,Male,98,174,Never,No,Yes,Skip the breakfast,1-2 pm,After 10 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,less than 5000,3-6 hours,No,No,Above 10 hours,After 11pm,No,No,More than 1 hour,3,4,5,No,Yes,4,4,1.73
+20-30,Male,70,177,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,Yes,No,10-20 minutes,5,1,3,Yes,Yes,2,1,3.1
+20-30,Female,58,162,Never,No,No,Skip the breakfast,1-2 pm,8-10 pm,No junk / Rarely,Daily once,3-6 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,4,5,No,Yes,3,4,2.63
+15-20,Male,62,178,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Daily once,3-6 litres,less than 5000,1-3 hours,No,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,4,5,No,Yes,4,3,3.36
+15-20,Male,68,158,Never,No,Yes,Before 8 am,11am -1 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,No,No,4-6 hours,After 11pm,No,No,10-20 minutes,2,5,5,No,No,3,4,2.33
+20-30,Male,65,170,Never,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,more than 7 times per week,1-3 litres,5000 - 10000,1-3 hours,Yes,No,4-6 hours,After 11pm,No,No,10-20 minutes,4,3,4,No,Yes,4,2,3.16
+15-20,Female,68,154,Never,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,3,4,Yes,Yes,2,5,3.26
+15-20,Male,75,180,Never,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,20 - 40 minutes,3,4,4,No,No,3,4,3.16
+15-20,Male,90,170,Daily,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,3,4,5,No,Yes,2,4,3.76
+15-20,Male,52,165,Never,No,Yes,Before 8 am,11am -1 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,9pm - 10pm,No,No,10-20 minutes,4,5,4,No,Yes,3,4,3.1
+15-20,Male,77,179,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,less than 5000,3-6 hours,Yes,Yes,8-10 hours,After 11pm,No,Yes,20 - 40 minutes,4,3,4,Yes,Yes,3,4,3.36
+15-20,Male,80,178,Never,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,3,4,4,No,No,4,3,3.13
+15-20,Female,49,155,Never,No,Yes,Before 8 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,5,5,No,No,4,4,2.16
+15-20,Male,60,156,Never,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,1-3 litres,5000 - 10000,More than 6 hours,No,No,4-6 hours,After 11pm,No,No,40-60 minutes,3,5,4,No,Yes,3,1,2.5
+15-20,Male,68,172,15 days,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,less than 5000,1-3 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,3,3,Yes,Yes,3,3,3.56
+15-20,Male,46,178,15 days,No,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,3-6 hours,Yes,No,8-10 hours,10pm - 11pm,No,No,10-20 minutes,4,2,4,Yes,Yes,3,2,3.4
+15-20,Male,85,186,15 days,No,No,9-10 am,2-3 pm,8-10 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,5,1,3,No,Yes,1,4,3.26
+20-30,Female,63,160,Weekly,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,20 - 40 minutes,3,3,3,Yes,Yes,3,1,3.5
+15-20,Female,53,165,15 days,No,Yes,9-10 am,2-3 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,Yes,6-8 hours,After 11pm,No,Yes,20 - 40 minutes,2,3,3,No,No,2,4,2.63
+15-20,Male,91,183,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,No junk / Rarely,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,2,5,Yes,Yes,2,3,3.3
+15-20,Male,75,166,Never,No,No,9-10 am,2-3 pm,After 10 pm,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,Below 1 hour,Yes,Yes,4-6 hours,After 11pm,No,No,20 - 40 minutes,5,3,3,No,No,4,2,3.31
+15-20,Male,70,173,Never,No,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,more than 7 times per week,1-3 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,No,10-20 minutes,4,3,3,Yes,Yes,3,4,3.73
+15-20,Male,82,172,Never,No,No,9-10 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,3-6 litres,less than 5000,Below 1 hour,Yes,No,6-8 hours,After 11pm,No,No,10-20 minutes,4,3,4,Yes,Yes,2,5,3.08
+15-20,Female,54,158,15 days,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,3,2,1,No,Yes,2,2,3.8
+15-20,Male,69,175,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,More than 5 times / Every day,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,4,5,No,Yes,2,5,3.36
+15-20,Male,77,182,Never,No,No,Skip the breakfast,11am -1 pm,7-8 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,1,2,Yes,Yes,2,2,3.6
+20-30,Male,86,189,Never,No,Yes,9-10 am,1-2 pm,8-10 pm,3-5 times,Every alternate day,3-6 litres,less than 5000,More than 6 hours,Yes,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,4,2,2,Yes,Yes,4,2,3.16
+20-30,Female,75,179,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Daily once,1-3 litres,less than 5000,1-3 hours,Yes,No,8-10 hours,After 11pm,No,No,10-20 minutes,5,5,5,Yes,Yes,3,4,3.23
+20-30,Female,56,155,15 days,No,No,Skip the breakfast,11am -1 pm,8-10 pm,More than 5 times / Every day,more than 7 times per week,1-3 litres,less than 5000,Below 1 hour,No,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,3,2,Yes,Yes,2,2,3.65
+15-20,Male,61,176,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,5,1,2,Yes,Yes,1,3,3.86
+15-20,Male,54,161,Never,No,No,Skip the breakfast,11am -1 pm,7-8 pm,3-5 times,Every alternate day,3-6 litres,more than 10000,1-3 hours,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,4,3,Yes,Yes,3,3,3.48
+20-30,Male,85,171,Daily,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,Above 6 litres,5000 - 10000,Below 1 hour,Yes,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,4,3,No,Yes,3,2,3.81
+15-20,Female,70,167,15 days,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,3-6 hours,Yes,No,8-10 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,2,2,Yes,Yes,2,1,3.93
+15-20,Male,82,183,15 days,No,No,Before 8 am,11am -1 pm,7-8 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,No,Yes,8-10 hours,9pm - 10pm,No,Yes,10-20 minutes,5,1,1,Yes,Yes,4,1,4.03
+15-20,Male,70,178,Never,No,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,10-20 minutes,5,3,4,No,No,4,4,2.63
+15-20,Female,65,170,Weekly,No,No,8-9 am,1-2 pm,8-10 pm,3-5 times,more than 7 times per week,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,4,4,No,Yes,2,3,3.5
+15-20,Male,56,154,Never,No,No,After 10 am,1-2 pm,After 10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,3,4,Yes,Yes,2,3,2.9
+15-20,Female,53,155,Daily,No,No,8-9 am,1-2 pm,6-7 pm,No junk / Rarely,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,5,3,3,Yes,Yes,2,5,3.96
+20-30,Female,47,152,15 days,No,No,8-9 am,11am -1 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,4,3,4,No,No,3,4,3.2
+15-20,Male,70,178,Weekly,No,No,9-10 am,1-2 pm,After 10 pm,3-5 times,more than 7 times per week,3-6 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,5,5,No,No,2,2,3.4
+15-20,Male,51,182,Never,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,1,2,Yes,Yes,1,1,3.33
+15-20,Female,52,150,Daily,No,No,9-10 am,1-2 pm,7-8 pm,3-5 times,more than 7 times per week,1-3 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,3,2,3,Yes,Yes,2,2,3.63
+20-30,Female,57,152,Never,No,No,Before 8 am,1-2 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,5,4,5,No,Yes,3,4,3.16
+15-20,Male,60,178,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,more than 10000,1-3 hours,No,Yes,6-8 hours,9pm - 10pm,No,No,20 - 40 minutes,3,3,3,Yes,Yes,1,2,3.55
+15-20,Male,90,195,15 days,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,No,10-20 minutes,4,3,3,Yes,Yes,2,3,3.7
+20-30,Male,83,168,Never,No,Yes,Before 8 am,1-2 pm,After 10 pm,3-5 times,more than 7 times per week,1-3 litres,less than 5000,1-3 hours,No,No,4-6 hours,After 11pm,No,No,10-20 minutes,5,5,5,Yes,Yes,3,4,2.63
+15-20,Male,70,174,Daily,No,Yes,After 10 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,10pm - 11pm,No,No,10-20 minutes,5,1,4,Yes,Yes,5,4,2.9
+20-30,Male,82,179,Daily,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,3,3,No,Yes,2,4,3.63
+15-20,Male,50,165,15 days,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,3,4,No,Yes,2,3,3.53
+15-20,Male,69,180,Weekly,No,No,9-10 am,11am -1 pm,8-10 pm,3-5 times,Daily once,3-6 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,4,3,4,Yes,Yes,2,2,3.86
+15-20,Female,61,155,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,3-6 hours,Yes,No,4-6 hours,After 11pm,No,No,10-20 minutes,3,4,4,No,Yes,5,4,2.76
+15-20,Male,95,180,Never,No,No,Skip the breakfast,After 3 pm,8-10 pm,3-5 times,Daily once,3-6 litres,5000 - 10000,More than 6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,3,5,No,Yes,1,4,3.1
+20-30,Female,45,161,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,4,3,3,No,Yes,4,4,2.86
+15-20,Male,73,175,Never,No,No,Skip the breakfast,1-2 pm,8-10 pm,3-5 times,Daily once,1-3 litres,5000 - 10000,3-6 hours,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,4,4,Yes,Yes,2,3,3.13
+20-30,Female,49,163,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Daily once,3-6 litres,less than 5000,3-6 hours,No,Yes,8-10 hours,9pm - 10pm,No,Yes,10-20 minutes,4,4,5,No,Yes,5,3,3.33
+15-20,Male,75,170,Never,No,No,8-9 am,2-3 pm,7-8 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,9pm - 10pm,No,No,20 - 40 minutes,3,5,5,Yes,Yes,1,5,3.2
+15-20,Female,65,158,15 days,No,No,Before 8 am,1-2 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,3,4,Yes,No,4,4,2.9
+15-20,Male,58,151,Never,No,No,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Every alternate day,Above 6 litres,more than 10000,1-3 hours,No,Yes,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,2,4,5,No,No,2,4,3.55
+20-30,Male,72,176,Never,Yes,No,8-9 am,11am -1 pm,7-8 pm,3-5 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,No,8-10 hours,After 11pm,Yes,Yes,10-20 minutes,4,5,4,Yes,No,4,4,2.93
+15-20,Male,60,178,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,5000 - 10000,Below 1 hour,No,Yes,6-8 hours,9pm - 10pm,No,No,20 - 40 minutes,3,2,3,Yes,Yes,1,2,3.65
+15-20,Male,82,175,Never,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,No,Yes,8-10 hours,After 11pm,No,No,10-20 minutes,4,4,3,Yes,Yes,1,3,3.43
+15-20,Male,64,175,Never,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Never/Rarely,3-6 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,2,4,Yes,Yes,3,2,3.3
+20-30,Female,62,168,15 days,No,No,Before 8 am,11am -1 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,Yes,No,8-10 hours,9pm - 10pm,Yes,Yes,10-20 minutes,4,4,3,No,Yes,2,2,3.8
+15-20,Female,49,166,15 days,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,4,4,Yes,Yes,2,3,3.53
+15-20,Female,68,162,Never,No,Yes,8-9 am,11am -1 pm,6-7 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,Below 1 hour,No,No,6-8 hours,After 11pm,No,No,40-60 minutes,3,3,4,No,No,1,2,2.85
+15-20,Male,78,155,Never,No,No,8-9 am,11am -1 pm,7-8 pm,3-5 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,4,5,No,No,3,5,3.26
+15-20,Male,51,168,Weekly,No,No,Before 8 am,1-2 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,Yes,20 - 40 minutes,4,3,4,Yes,Yes,3,4,2.9
+15-20,Female,60,164,Never,No,Yes,Before 8 am,11am -1 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,Yes,More than 1 hour,4,3,5,Yes,Yes,3,4,2.4
+15-20,Male,51,173,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,more than 10000,3-6 hours,No,Yes,6-8 hours,9pm - 10pm,Yes,Yes,10-20 minutes,5,4,4,Yes,Yes,3,3,3.75
+15-20,Female,73,169,15 days,No,No,8-9 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,Below 1 hour,No,Yes,6-8 hours,9pm - 10pm,No,Yes,10-20 minutes,4,4,4,Yes,Yes,3,4,3.68
+15-20,Male,50,165,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,more than 10000,Below 1 hour,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,4,2,3,Yes,Yes,3,3,3.7
+15-20,Male,53,167,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,5000 - 10000,Below 1 hour,Yes,No,4-6 hours,After 11pm,No,No,40-60 minutes,4,3,4,No,Yes,3,4,2.98
+15-20,Female,50,154,Never,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,3,3,No,No,3,4,3.66
+15-20,Male,62,172,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Every alternate day,1-3 litres,less than 5000,1-3 hours,Yes,No,6-8 hours,10pm - 11pm,Yes,No,10-20 minutes,2,1,4,No,No,3,2,3.26
+20-30,Male,75,170,Weekly,No,No,9-10 am,2-3 pm,8-10 pm,2-3 times,more than 7 times per week,1-3 litres,5000 - 10000,Below 1 hour,Yes,Yes,4-6 hours,After 11pm,No,No,40-60 minutes,4,5,4,No,Yes,2,5,3.31
+30-40,Male,86,185,15 days,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,Below 1 hour,Yes,Yes,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,5,3,3,Yes,Yes,2,2,3.95
+15-20,Male,68,156,15 days,No,No,8-9 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,Yes,Yes,6-8 hours,After 11pm,No,No,10-20 minutes,4,4,5,No,No,2,4,3.46
+15-20,Male,55,150,Never,No,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,20 - 40 minutes,4,5,3,Yes,Yes,3,5,3.58
+30-40,Male,79,168,Never,No,No,Before 8 am,11am -1 pm,7-8 pm,2-3 times,more than 7 times per week,3-6 litres,more than 10000,1-3 hours,No,Yes,8-10 hours,9pm - 10pm,No,Yes,10-20 minutes,5,1,1,Yes,Yes,5,3,3.76
+15-20,Female,44,158,Never,No,Yes,After 10 am,2-3 pm,8-10 pm,3-5 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,20 - 40 minutes,4,3,5,No,No,2,5,1.83
+15-20,Male,65,168,Never,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,more than 7 times per week,3-6 litres,less than 5000,More than 6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,2,4,Yes,Yes,2,3,3.31
+15-20,Male,80,185,Never,No,No,9-10 am,1-2 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,less than 5000,More than 6 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,No,20 - 40 minutes,4,1,2,Yes,Yes,2,2,3.35
+15-20,Female,45,160,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,4,4,5,Yes,Yes,3,4,3
+20-30,Female,56,160,Never,No,No,Before 8 am,Skip the lunch,8-10 pm,3-5 times,Daily once,1-3 litres,5000 - 10000,1-3 hours,No,No,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,3,5,No,Yes,1,3,2.8
+15-20,Female,43,154,Never,No,No,Before 8 am,1-2 pm,8-10 pm,3-5 times,Every alternate day,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,9pm - 10pm,No,Yes,20 - 40 minutes,3,3,5,No,Yes,2,3,2.65
+20-30,Male,70,181,Weekly,No,No,Skip the breakfast,11am -1 pm,8-10 pm,3-5 times,more than 7 times per week,3-6 litres,5000 - 10000,3-6 hours,No,Yes,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,3,4,Yes,Yes,2,3,0.68
+20-30,Female,65,149,Weekly,No,No,9-10 am,1-2 pm,7-8 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,1-3 hours,Yes,Yes,6-8 hours,10pm - 11pm,No,No,20 - 40 minutes,3,4,4,Yes,Yes,3,4,3.41
+15-20,Male,82,176,Never,No,No,Before 8 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,4,4,Yes,Yes,3,4,2.91
+15-20,Male,97,187,Daily,No,No,9-10 am,1-2 pm,8-10 pm,2-3 times,Daily once,3-6 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,No,Yes,20 - 40 minutes,4,2,3,Yes,Yes,2,2,3.75
+20-30,Male,72,169,Never,No,No,9-10 am,1-2 pm,8-10 pm,3-5 times,Never/Rarely,3-6 litres,less than 5000,3-6 hours,No,No,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,3,3,5,Yes,Yes,3,4,2.68
+20-30,Female,50,153,Never,No,Yes,Before 8 am,1-2 pm,8-10 pm,2-3 times,Daily once,1-3 litres,less than 5000,Below 1 hour,No,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,3,5,5,No,No,4,5,2.65
+15-20,Female,65,172,Never,No,No,9-10 am,2-3 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,No,No,8-10 hours,After 11pm,No,No,10-20 minutes,2,5,4,Yes,Yes,3,5,2.28
+20-30,Male,83,172,Never,No,No,Skip the breakfast,11am -1 pm,7-8 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,5,4,5,Yes,Yes,1,3,3.55
+15-20,Male,60,183,Never,No,No,9-10 am,1-2 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,More than 6 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,2,5,Yes,Yes,2,2,3.15
+20-30,Male,92,153,Weekly,No,Yes,8-9 am,11am -1 pm,7-8 pm,2-3 times,Never/Rarely,1-3 litres,less than 5000,More than 6 hours,Yes,No,6-8 hours,10pm - 11pm,No,Yes,10-20 minutes,5,4,5,No,Yes,3,5,2.76
+40-60,Female,73,141,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,Below 1 hour,No,No,6-8 hours,8pm - 9pm,No,No,10-20 minutes,3,4,5,No,Yes,3,3,2.75
+15-20,Female,56,156,Never,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,1-3 litres,5000 - 10000,More than 6 hours,Yes,No,6-8 hours,10pm - 11pm,No,No,40-60 minutes,4,3,4,No,No,4,3,2.75
+30-40,Male,100,176,Never,No,Yes,8-9 am,11am -1 pm,7-8 pm,No junk / Rarely,Daily once,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,After 11pm,No,No,10-20 minutes,5,2,2,No,Yes,3,3,2.9
+15-20,Male,64,170,15 days,No,No,Before 8 am,1-2 pm,8-10 pm,No junk / Rarely,Never/Rarely,1-3 litres,less than 5000,1-3 hours,No,No,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,4,4,Yes,Yes,4,4,3.1
+15-20,Male,52,170,Never,No,No,8-9 am,1-2 pm,7-8 pm,3-5 times,more than 7 times per week,3-6 litres,5000 - 10000,Below 1 hour,No,Yes,6-8 hours,10pm - 11pm,No,No,10-20 minutes,4,3,4,No,Yes,3,4,3.23
+15-20,Female,61,163,Daily,No,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,more than 7 times per week,1-3 litres,less than 5000,Below 1 hour,Yes,Yes,6-8 hours,After 11pm,Yes,Yes,10-20 minutes,5,3,3,Yes,Yes,4,2,3.86
+15-20,Male,72,180,15 days,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,5000 - 10000,1-3 hours,No,Yes,6-8 hours,10pm - 11pm,Yes,Yes,10-20 minutes,4,1,3,Yes,Yes,3,3,3.7
+15-20,Female,68,154,15 days,No,No,8-9 am,11am -1 pm,7-8 pm,2-3 times,more than 7 times per week,1-3 litres,5000 - 10000,More than 6 hours,No,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,4,3,5,Yes,No,3,4,3.03
+15-20,Female,57,168,Never,No,Yes,9-10 am,1-2 pm,8-10 pm,More than 5 times / Every day,Every alternate day,1-3 litres,less than 5000,3-6 hours,Yes,Yes,6-8 hours,After 11pm,No,Yes,10-20 minutes,5,4,5,No,Yes,3,3,2.86
+15-20,Female,47,140,Weekly,No,No,8-9 am,1-2 pm,8-10 pm,2-3 times,Every alternate day,3-6 litres,less than 5000,1-3 hours,Yes,Yes,8-10 hours,After 11pm,No,No,10-20 minutes,4,3,3,Yes,No,3,3,3.31
+15-20,Male,82,180,Never,No,No,Before 8 am,11am -1 pm,8-10 pm,3-5 times,Daily once,3-6 litres,5000 - 10000,3-6 hours,Yes,Yes,6-8 hours,10pm - 11pm,Yes,No,10-20 minutes,4,5,5,Yes,Yes,5,5,3.38
+15-20,Female,57,162,Never,No,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,Never/Rarely,3-6 litres,5000 - 10000,3-6 hours,Yes,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,4,3,4,No,Yes,3,3,2.91
+15-20,Male,54,172,Weekly,No,No,8-9 am,11am -1 pm,8-10 pm,No junk / Rarely,Every alternate day,3-6 litres,more than 10000,1-3 hours,Yes,Yes,4-6 hours,After 11pm,No,Yes,10-20 minutes,4,2,4,Yes,Yes,3,3,3.73
+15-20,Male,60,176,Never,No,Yes,8-9 am,1-2 pm,8-10 pm,2-3 times,Never/Rarely,3-6 litres,less than 5000,Below 1 hour,No,No,6-8 hours,After 11pm,No,No,20 - 40 minutes,3,4,5,No,Yes,3,3,2.61
